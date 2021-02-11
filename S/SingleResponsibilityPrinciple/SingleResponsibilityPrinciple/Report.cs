@@ -7,6 +7,7 @@ namespace SingleResponsibilityPrinciple
     class Report
     {
         public string Text { get; set; }
+
         public void GoToFirstPage()
         {
             Console.WriteLine("GoToFirstPage");
@@ -21,11 +22,9 @@ namespace SingleResponsibilityPrinciple
         {
             Console.WriteLine("GoToPage {0}", pageNumber);
         }
-
-        public void Print()
+        public void Print(IPrinter printer)
         {
-            Console.WriteLine("Print report...");
-            Console.WriteLine(Text);
+            printer.Print(this.Text);
         }
     }
 }
