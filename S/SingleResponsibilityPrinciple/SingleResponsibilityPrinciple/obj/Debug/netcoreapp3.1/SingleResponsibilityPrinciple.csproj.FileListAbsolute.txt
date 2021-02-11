@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\theru\Desktop\SOLID\S\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache
