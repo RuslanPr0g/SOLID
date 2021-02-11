@@ -6,27 +6,33 @@ namespace SingleResponsibilityPrinciple
     class MobileStore
     {
         List<Phone> phones = new List<Phone>();
+
+        public IPhoneReader Reader { get; set; }
+        public IPhoneBinder Binder { get; set; }
+        public IPhoneValidator Validator { get; set; }
+        public IPhoneSaver Saver { get; set; }
+
+        public MobileStore(IPhoneReader reader, IPhoneBinder binder, IPhoneValidator validator, IPhoneSaver saver)
+        {
+            this.Reader = reader;
+            this.Binder = binder;
+            this.Validator = validator;
+            this.Saver = saver;
+        }
+
         public void Process()
         {
-            Console.WriteLine("Enter model:");
-            string model = Console.ReadLine();
-            Console.WriteLine("Enter price:");
-            int price = 0;
-            bool result = Int32.TryParse(Console.ReadLine(), out price);
-
-            if (result == false || price <= 0 || String.IsNullOrEmpty(model))
+            string[] data = Reader.GetInputData();
+            Phone phone = Binder.CreatePhone(data);
+            if (Validator.IsValid(phone))
             {
-                throw new Exception("Wrong data.");
+                //phones.Add(phone);
+                //Saver.Save(phone, "store.txt");
+                Console.WriteLine("Data proceed.");
             }
             else
             {
-                phones.Add(new Phone { Model = model, Price = price });
-                using (System.IO.StreamWriter writer = new System.IO.StreamWriter("store.txt", true))
-                {
-                    //writer.WriteLine(model);
-                    //writer.WriteLine(price);
-                }
-                Console.WriteLine("Data was successfully proceed.");
+                Console.WriteLine("Wrong data.");
             }
         }
     }
