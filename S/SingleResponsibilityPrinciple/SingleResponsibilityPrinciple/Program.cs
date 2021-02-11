@@ -6,7 +6,10 @@ namespace SingleResponsibilityPrinciple
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IPrinter printer = new ConsolePrinter();
+            Report report = new Report();
+            report.Text = "Hello Wolrd";
+            report.Print(printer);
         }
     }
 }
