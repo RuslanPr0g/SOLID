@@ -6,7 +6,11 @@ namespace Open_Closed_Principle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("open-closed principle");
+            MealBase[] menu = new MealBase[] { new PotatoMeal(), new SaladMeal() };
+
+            Cook bob = new Cook("Bob");
+
+            bob.MakeDinner(menu);
         }
     }
 }
