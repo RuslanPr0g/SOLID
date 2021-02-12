@@ -2,15 +2,23 @@
 
 namespace Open_Closed_Principle
 {
-    class PotatoMealCook : IMeal
+    class PotatoMeal : MealBase
     {
-        public void Make()
+        protected override void Cook()
         {
-            Console.WriteLine("Clean potatoes");
             Console.WriteLine("Boild potatoes");
             Console.WriteLine("Drain water, de-boil boiled potatoes in mashed potatoes");
+        }
+
+        protected override void FinalSteps()
+        {
             Console.WriteLine("Mashed with spices and greens");
             Console.WriteLine("Mashed Potatoes Ready");
+        }
+
+        protected override void Prepare()
+        {
+            Console.WriteLine("Clean potatoes");
         }
     }
 }

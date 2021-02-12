@@ -2,7 +2,7 @@
 
 namespace Open_Closed_Principle
 {
-    class SaladMeal : IMeal
+    class SaladMealCook : IMeal
     {
         public void Make()
         {
