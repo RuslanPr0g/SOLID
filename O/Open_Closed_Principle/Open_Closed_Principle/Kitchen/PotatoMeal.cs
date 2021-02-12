@@ -1,19 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Open_Closed_Principle
 {
-    class Cook
+    class PotatoMeal : IMeal
     {
-        public string Name { get; set; }
-
-        public Cook(string name)
-        {
-            this.Name = name;
-        }
-
-        public void MakeDinner()
+        public void Make()
         {
             Console.WriteLine("Clean potatoes");
             Console.WriteLine("Boild potatoes");
