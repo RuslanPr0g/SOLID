@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.exe
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.deps.json
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.runtimeconfig.json
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.runtimeconfig.dev.json
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.dll
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\bin\Debug\netcoreapp3.1\Open_Closed_Principle.pdb
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.AssemblyInfo.cs
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.dll
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.pdb
+C:\Users\theru\Desktop\SOLID\O\Open_Closed_Principle\Open_Closed_Principle\obj\Debug\netcoreapp3.1\Open_Closed_Principle.genruntimeconfig.cache
