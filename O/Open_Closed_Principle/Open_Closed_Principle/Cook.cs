@@ -12,9 +12,10 @@ namespace Open_Closed_Principle
             this.Name = name;
         }
 
-        public void MakeDinner(IMeal meal)
+        public void MakeDinner(MealBase[] menu)
         {
-            meal.Make();
+            foreach (MealBase meal in menu)
+                meal.Make();
         }
     }
 }
