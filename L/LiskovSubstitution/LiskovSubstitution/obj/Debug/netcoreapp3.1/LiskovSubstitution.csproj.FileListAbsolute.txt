@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.exe
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.deps.json
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.json
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.dev.json
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.dll
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+C:\Users\theru\Desktop\SOLID\L\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.genruntimeconfig.cache
